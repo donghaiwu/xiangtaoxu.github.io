@@ -1,21 +1,24 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Xu Lab | Cornell University
+description: We study terrestrial ecosystems under global change with biosphere modeling and other quantitative and computational methods.
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+
+domain: xiangtaoxu.github.io
+url: https://xiangtaoxu.github.io
+baseurl: /xiangtaoxu.github.io
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: xx286@cornell.edu
+  google-scholar: Xiangtao Xu
+  #github: your-lab
+  #twitter: YourLabHandle
+  #instagram: YourLabHandle
+  #youtube: YourLabChannel
 
 # automatic citations
 auto-cite:

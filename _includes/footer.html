@@ -11,7 +11,18 @@
   {%- assign dark = true -%}
 {%- endif -%}
 
+{% capture address %}
+### E317, Coson Hall, Ithaca, New York, USA, 14850
+{% endcapture %}
+
+{% capture acknowledgement %}
+&nbsp;&nbsp;Based on the template by [Greene Lab](https://github.com/greenelab/lab-website-template)
+{% endcapture %}
 <footer {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
+    
+  <div class="footer_row">
+    {{ address | markdownify }}
+  </div>
   <div class="footer_row">
     {%- for entry in site.links -%}
       {%- assign key = entry[0] -%}
@@ -19,9 +30,7 @@
       {%- include link.html type=key icon="" tooltip="" link=value -%}
     {%- endfor -%}
   </div>
-  <!--
   <div class="footer_row">
-    &copy; {{ site.time | date: '%Y' }} {{ site.title }}
+      &copy; {{ site.time | date: '%Y' }} {{ site.title }} {{ acknowledgement | markdownify }}
   </div>
-  -->
 </footer>

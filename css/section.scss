@@ -26,10 +26,11 @@ body {
 
   section {
     .section {
-      box-sizing: content-box;
-      max-width: $page;
-      margin: 0 auto;
-      padding: 60px 40px;
+      box-sizing: border-box;
+      //max-width: $page;
+      width: 95%;
+      margin: 0 auto 0 auto;
+      padding: 40px 40px;
       text-align: center;
     }
   }

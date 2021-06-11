@@ -2,80 +2,45 @@
 title: Home
 ---
 
-# Your Lab Slogan
+{% capture col1 %}
+## <span style="color:red">G</span>lobal <span style="color:red">E</span>cology and <span style="color:red">M</span>odeling
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
-  
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
+---
+
+Welcome to the GEM lab in the [Department of Ecology and Evolutionary Biology at Cornell](https://ecologyandevolution.cornell.edu/)! We investigate ecological dynamics in terrestrial ecosystems under rapid global environmental change. We use various quantitative and computational tools such as terrestrial biosphere modeling and environmental remote sensing.
+
 {:.center}
 
-{% include section.html full=true %}
+{%
+    include slideshow.html
 
-{% include banner.html image="images/banner.jpg" %}
+    image1="images/slides/CR_Horizontes.jpg"
+    caption1="Horizontes Ecological Station in Northwest Costa Rica during the transition from dry season to wet season"
 
-{% include section.html %}
+    image2="images/slides/CR_Iguana.jpg"
+    caption2="Iguana in Costa Rican Dry forests"
 
-# Highlights
+    image3="images/slides/TLS_Corson.jpg"
+    caption3="Scanning a spiny tropical palm Pachypodium geayi in Corson Hall, Cornell with BLK360 by Maddie Watson and Donghai Wu"
+    
+    image4="images/slides/Pachypodium_geayi_TLS.png"
+    caption4="Point cloud of Pachypodium_geayi from terrestiral laser scanning, colored with retrieval intensity"
 
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-[See what we've published &nbsp;→](research)
-{:.center}
+%}
+
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  headline="Our Research"
-  text=text
-%}
+{% capture col2 %}
+## NEWS
 
-{% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
 
-[See our resources &nbsp;→](resources)
-{:.center}
+- [First TLS scan](https://twitter.com/XiangtaoX/status/1403016633380216834?s=20) with ***Artoo***, the BLK360 Terrestrial lidar! *- June 9 2021*
+
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  headline="Our Resources"
-  text=text
-%}
+{% include two-col.html col1=col1 col2=col2%}
 
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-[Meet our team &nbsp;→](team)
-{:.center}
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  headline="Our Team"
-  text=text
-%}
