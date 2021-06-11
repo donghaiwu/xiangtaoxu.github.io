@@ -7,9 +7,9 @@ logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
 
-domain: xiangtaoxu.github.io
-url: https://xiangtaoxu.github.io
-baseurl: /xiangtaoxu.github.io
+#domain: xiangtaoxu.github.io
+#url: https://xiangtaoxu.github.io
+baseurl: /xiangtaoxu.github.io/
 
 # site social media and other links
 links:
