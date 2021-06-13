@@ -37,6 +37,7 @@ Welcome to the GEM lab in the [Department of Ecology and Evolutionary Biology at
 ---
 
 - [First TLS scan](https://twitter.com/XiangtaoX/status/1403016633380216834?s=20) with ***Artoo***, the BLK360 Terrestrial lidar! *- June 9 2021*
+- New study on tropical forest canopy water dynamics using microwave remote sensing and ED2 model is now [published on New Phytologist](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.17254)! See also the nice [commentary](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17418) by Gerlein-Safdi on the same issue *- June 01 2021*
 
 {% endcapture %}
 

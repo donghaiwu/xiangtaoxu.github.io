@@ -42,11 +42,24 @@
     </div>
 
     {%- assign authors = citation.authors | default: emptyarray -%}
+    {%- assign author_size = authors.size | minus: 1 -%}
+    <!-- highlight lab members -->
     <div
       class="citation_authors {% if rich %}truncate{% endif %}"
       {% if rich %}tabindex="0"{% endif %}
     >
-      {{ authors | join: ", " }}
+    {%- for i_a in (0..author_size) -%}
+        {%- if citation.members contains authors[i_a] -%}
+        <strong>{{ authors[i_a] }}</strong> 
+        {%- else -%}
+        {{ authors[i_a] }}
+        {%- endif -%}
+
+        {%- if i_a < author_size -%}
+        {{ ", " }}
+        {%- endif -%}
+    {%- endfor -%}
+
     </div>
 
     {%- assign publisher = citation.publisher | default: "" -%}

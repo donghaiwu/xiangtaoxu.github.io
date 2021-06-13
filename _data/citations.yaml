@@ -1,63 +1,212 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1111/nph.17254
+  title: Leaf surface water, not plant water stress, drives diurnal variation in tropical
+    forest canopy water content
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - Xiangtao Xu
+  - Alexandra G. Konings
+  - Marcos Longo
+  - Andrew Feldman
+  - Liang Xu
+  - Sassan Saatchi
+  - Donghai Wu
+  - Jin Wu
+  - Paul Moorcroft
+  publisher: New Phytologist
+  date: '2021-06-01'
+  link: https://doi.org/gkkjqv
+  members:
+  - Xiangtao Xu
+  - Donghai Wu
   tags:
-  - knowledge graphs
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Remote sensing
+  - Tropical ecology
+  - ED2
+- id: doi:d10.1111/1365-2745.13540
+  title: 'Unraveling the relative role of light and water competition between lianas
+    and trees in tropical forests: A vegetation model analysis'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - "F\xE9licien Meunier"
+  - Hans Verbeeck
+  - Betsy Cowdery
+  - Stefan A. Schnitzer
+  - "Chris M. Smith\u2010Martin"
+  - Jennifer S. Powers
+  - Xiangtao Xu
+  - Martijn Slot
+  - Hannes P. T. De Deurwaerder
+  - Matteo Detto
+  - Damien Bonal
+  - Marcos Longo
+  - Louis S. Santiago
+  - Michael Dietze
+  publisher: Journal of Ecology
+  date: '2021-03-03'
+  link: https://doi.org/d10.1111/1365-2745.13540
+  members:
+  - Xiangtao Xu
+  tags:
+  - ED2
+  - Tropical ecology
+- id: doi:10.1101/2021.02.07.430028
+  title: Leaf economics explained by optimality principles
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
+  - Han Wang
+  - I. Colin Prentice
+  - Ian J. Wright
+  - Shengchao Qiao
+  - Xiangtao Xu
+  - Kihachiro Kikuzawa
+  - Nils Chr. Stenseth
+  publisher: Ecology
+  date: '2021-02-07'
+  link: https://doi.org/gkmnwr
+  members:
+  - Xiangtao Xu
+  tags:
+  - Optimality principles
+- id: doi:10.1016/j.isprsjprs.2020.10.017
+  title: Monitoring tree-crown scale autumn leaf phenology in a temperate forest with
+    an integration of PlanetScope and drone remote sensing observations
+  authors:
+  - Shengbiao Wu
+  - Jing Wang
+  - Zhengbing Yan
+  - Guangqin Song
+  - Yang Chen
+  - Qin Ma
+  - Meifeng Deng
+  - Yuntao Wu
+  - Yingyi Zhao
+  - Zhengfei Guo
+  - Zuoqiang Yuan
+  - Guanhua Dai
+  - Xiangtao Xu
+  - Xi Yang
+  - Yanjun Su
+  - Lingli Liu
+  - Jin Wu
+  publisher: ISPRS Journal of Photogrammetry and Remote Sensing
+  date: '2021-01-15'
+  link: https://doi.org/gkmnwt
+  members:
+  - Xiangtao Xu
+  tags:
+  - Phenology
+  - Remote sensing
+- id: doi:10.1007/s40641-020-00168-6
+  title: 'Trait-Based Modeling of Terrestrial Ecosystems: Advances and Challenges
+    Under Global Change'
+  authors:
+  - Xiangtao Xu
+  - Anna T. Trugman
+  publisher: Current Climate Change Reports
+  date: '2021-01-12'
+  link: https://doi.org/gh7qbj
+  members:
+  - Xiangtao Xu
+  tags:
+  - Review
+- id: doi:10.1111/gcb.15224
+  title: Accelerated terrestrial ecosystem carbon turnover and its drivers
+  authors:
+  - Donghai Wu
+  - Shilong Piao
+  - Dan Zhu
+  - Xuhui Wang
+  - Philippe Ciais
+  - Ana Bastos
+  - Xiangtao Xu
+  - Wenfang Xu
+  publisher: Global Change Biology
+  date: '2020-08-30'
+  link: https://doi.org/gkmnwx
+  members:
+  - Xiangtao Xu
+  - Donghai Wu
+  tags:
+  - Carbon turnover
+- id: doi:10.1111/nph.16712
+  title: Optimal leaf life strategies determine <i>V</i> <sub>c,max</sub> dynamic
+    during ontogeny
+  authors:
+  - Matteo Detto
+  - Xiangtao Xu
+  publisher: New Phytologist
+  date: '2020-06-22'
+  link: https://doi.org/ghjsdd
+  members:
+  - Xiangtao Xu
+  tags:
+  - Phenology
+  - Optimality principles
+- id: doi:10.1111/gcb.15037
+  title: A catastrophic tropical drought kills hydraulically vulnerable tree species
+  authors:
+  - Jennifer S. Powers
+  - German Vargas G.
+  - Timothy J. Brodribb
+  - Naomi B. Schwartz
+  - "Daniel P\xE9rez\u2010Aviles"
+  - "Chris M. Smith\u2010Martin"
+  - Justin M. Becknell
+  - Filippo Aureli
+  - Roger Blanco
+  - "Erick Calder\xF3n\u2010Morales"
+  - "Julio C. Calvo\u2010Alvarado"
+  - "Ana Julieta Calvo\u2010Obando"
+  - "Mar\xEDa Marta Chavarr\xEDa"
+  - "Dorian Carvajal\u2010Vanegas"
+  - "C\xE9sar D. Jim\xE9nez\u2010Rodr\xEDguez"
+  - Evin Murillo Chacon
+  - Colleen M. Schaffner
+  - Leland K. Werden
+  - Xiangtao Xu
+  - David Medvigy
+  publisher: Global Change Biology
+  date: '2020-03-23'
+  link: https://doi.org/gkmnw3
+  members:
+  - Xiangtao Xu
+  tags:
+  - Tropical ecology
+  - Tree mortality
+- id: doi:10.1111/nph.16275
+  title: Allometric scaling laws linking biomass and rooting depth vary across ontogeny
+    and functional groups in tropical dry forest lianas and trees
+  authors:
+  - "Chris M. Smith\u2010Martin"
+  - Xiangtao Xu
+  - David Medvigy
+  - Stefan A. Schnitzer
+  - Jennifer S. Powers
+  publisher: New Phytologist
+  date: '2020-01-24'
+  link: https://doi.org/gkmnw6
+  members:
+  - Xiangtao Xu
+  tags:
+  - Tropical ecology
+  - Allometry
+  - Root
+  - ED2
+- id: doi:10.1038/s41467-019-13656-7
+  title: Tropical carbon sink accelerated by symbiotic dinitrogen fixation
+  authors:
+  - Jennifer H. Levy-Varon
+  - Sarah A. Batterman
+  - David Medvigy
+  - Xiangtao Xu
+  - Jefferson S. Hall
+  - Michiel Breugel
+  - Lars O. Hedin
+  publisher: Nature Communications
+  date: '2019-12-02'
+  link: https://doi.org/gkmnw7
+  members:
+  - Xiangtao Xu
+  tags:
+  - Tropical ecology
+  - Nitrogen fixation
+  - ED2

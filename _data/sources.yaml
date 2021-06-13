@@ -1,33 +1,82 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+- id: doi:10.1111/nph.17254
+  date: 2021-6-1
+  members:
+    - Xiangtao Xu
+    - Donghai Wu
   tags:
-    - knowledge graphs
+    - Remote sensing
+    - Tropical ecology
+    - ED2
 
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+- id: doi:d10.1111/1365-2745.13540
+  date: 2021-3-3
+  members:
+    - Xiangtao Xu
+  tags:
+    - ED2
+    - Tropical ecology
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+- id: doi:10.1101/2021.02.07.430028
+  date: 2021-2-7
+  members:
+    - Xiangtao Xu
+  tags:
+    - Optimality principles
+
+- id: doi:10.1016/j.isprsjprs.2020.10.017
+  date: 2021-1-15
+  members:
+    - Xiangtao Xu
+  tags:
+    - Phenology
+    - Remote sensing
+
+- id: doi:10.1007/s40641-020-00168-6
+  date: 2021-1-12
+  members:
+    - Xiangtao Xu
+  tags:
+    - Review
+
+- id: doi:10.1111/gcb.15224
+  date: 2020-8-30
+  members:
+    - Xiangtao Xu
+    - Donghai Wu
+  tags:
+    - Carbon turnover
+
+- id: doi:10.1111/nph.16712
+  date: 2020-6-22
+  members:
+    - Xiangtao Xu
+  tags:
+    - Phenology
+    - Optimality principles
+
+- id: doi:10.1111/gcb.15037
+  date: 2020-3-23
+  members:
+    - Xiangtao Xu
+  tags:
+    - Tropical ecology
+    - Tree mortality
+
+- id: doi:10.1111/nph.16275
+  date: 2020-1-24
+  members:
+    - Xiangtao Xu
+  tags:
+    - Tropical ecology
+    - Allometry
+    - Root
+    - ED2
+
+- id: doi:10.1038/s41467-019-13656-7
+  date: 2019-12-2
+  members:
+    - Xiangtao Xu
+  tags:
+    - Tropical ecology
+    - Nitrogen fixation
+    - ED2
