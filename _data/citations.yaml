@@ -49,23 +49,6 @@
   tags:
   - ED2
   - Tropical ecology
-- id: doi:10.1101/2021.02.07.430028
-  title: Leaf economics explained by optimality principles
-  authors:
-  - Han Wang
-  - I. Colin Prentice
-  - Ian J. Wright
-  - Shengchao Qiao
-  - Xiangtao Xu
-  - Kihachiro Kikuzawa
-  - Nils Chr. Stenseth
-  publisher: Ecology
-  date: '2021-02-07'
-  link: https://doi.org/gkmnwr
-  members:
-  - Xiangtao Xu
-  tags:
-  - Optimality principles
 - id: doi:10.1016/j.isprsjprs.2020.10.017
   title: Monitoring tree-crown scale autumn leaf phenology in a temperate forest with
     an integration of PlanetScope and drone remote sensing observations
