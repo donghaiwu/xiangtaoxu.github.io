@@ -26,6 +26,14 @@ Welcome to the GEM lab in the [Department of Ecology and Evolutionary Biology at
     image4="images/slides/Pachypodium_geayi_TLS.png"
     caption4="Point cloud of Pachypodium_geayi from terrestiral laser scanning, colored with retrieval intensity"
 
+    image5="images/slides/TLS_sugar_maple.jpg"
+    caption5="Scanning sugar maple tree in the Arnot with BLK360 Terrestrial lidar"
+
+    image6="images/slides/TLS_photo_compare.jpg"
+    caption6="Point clound from TLS compared with photo for a sugar maple"
+
+    image7="images/slides/slashwall.jpg"
+    caption7="Slashwall in the Arnot built from harvest residuals to prevent deer browsing"
 
 %}
 

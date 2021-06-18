@@ -1,13 +1,14 @@
 ---
 name: Daniel Petticord
 image: images/danpetticord.jpg
-description: Graduate Student
+description: Biogeochemistry under anthropogenic changes
 role: phd
 aliases:
   - D. Petticord
   - D Petticord
 links:
-  home-page:
-  email:
+  email: dfp56@cornell.edu
 ---
+
+I am a student in both the [Sparks Lab](http://www.eeb.cornell.edu/sparks/) and the Xu lab.
 
