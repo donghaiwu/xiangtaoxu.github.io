@@ -35,6 +35,15 @@ Welcome to the GEM lab in the [Department of Ecology and Evolutionary Biology at
     image7="images/slides/slashwall.jpg"
     caption7="Slashwall in the Arnot built from harvest residuals to prevent deer browsing"
 
+    image8="images/slides/image8.jpg"
+    caption8="Seedling in Pasoh Forest Reserve, Malaysia. Credit: Yixin Ma"
+
+    image9="images/slides/image9.jpg"
+    caption9="Understory light environment in a tropical rainforest, Malaysia. Credit: Yixin Ma"
+
+    image10="images/slides/image10.jpg"
+    caption10="View of a tropical rainforest canopy from the meteorological tower, Malaysia. Credit: Yixin Ma"
+
 %}
 
 {% endcapture %}
