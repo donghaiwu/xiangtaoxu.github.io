@@ -1,7 +1,7 @@
 ---
 name: Donghai Wu
 image: /images/donghai-wu.jpg
-description: 
+description: Postdoc
 role: postdoc
 aliases:
   - Donghai Wu
@@ -17,4 +17,3 @@ links:
 ---
 
 I focus on providing insights into the three scientific questions: (1) How to quantify destinies of the carbon atoms fixed by photosynthesis? (2) How does ecosystem respond to environmental change? (3) How to establish a positive feedback between human and nature?
-
