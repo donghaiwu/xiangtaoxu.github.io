@@ -7,6 +7,7 @@ aliases:
   - Donghai Wu
   - D. Wu
   - D Wu
+  - D.H. Wu
 links:
   home-page: https://www.researchgate.net/profile/Donghai-Wu
   email: dw623@cornell.edu
